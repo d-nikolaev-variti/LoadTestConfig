@@ -105,7 +105,7 @@
                         "type": "http",
                         "data": {
                             "method": "POST",
-                            "path": "http://77.83.53.41",
+                            "path": "http://77.83.228.41",
                             "headers": {
                                 "Accept": "*/*",
                                 "Accept-Encoding": "gzip, deflate, br",
