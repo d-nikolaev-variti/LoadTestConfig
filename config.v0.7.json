@@ -220,7 +220,7 @@
         {
             "type": "packetgen",
             "count": 3,
-            "name": "https://conf.tricolor.tv",
+            "name": "https://pisun.ru",
             "args": {
                 "connection": {
                     "type": "net",
@@ -270,7 +270,7 @@
                     "type": "net",
                     "args": {
                         "protocol": "tcp",
-                        "address": "77.83.53.40:443",
+                        "address": "77.83.50.40:443",
                         "tls_config": {
                             "insecure_skip_verify": true
                         }
