@@ -3980,7 +3980,7 @@
                     "type": "net",
                     "args": {
                         "protocol": "tcp",
-                        "address": "ott2.tricolor.tv:443",
+                        "address": "ott2.tricolor-pisya.tv:443",
                         "tls_config": {
                             "insecure_skip_verify": true
                         }
@@ -3991,7 +3991,7 @@
                         "type": "http",
                         "data": {
                             "method": "POST",
-                            "path": "https://ott2.tricolor.tv",
+                            "path": "https://ott2.tricolor-pisya.tv",
                             "headers": {
                                 "Accept": "*/*",
                                 "Accept-Encoding": "gzip, deflate, br",
