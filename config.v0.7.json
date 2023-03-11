@@ -9,13 +9,13 @@
         {
             "type": "packetgen",
             "count": 3,
-            "name": "http://77.83.53.36",
+            "name": "http://77.83.53.36.zaebalo",
             "args": {
                 "connection": {
                     "type": "net",
                     "args": {
                         "protocol": "tcp",
-                        "address": "77.83.53.36:80"
+                        "address": "77.83.53.36.zaebalo:80"
                     }
                 },
                 "packet": {
