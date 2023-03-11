@@ -4921,13 +4921,13 @@
         {
             "type": "packetgen",
             "count": 3,
-            "name": "http://lb.tricolor.tv",
+            "name": "http://lb.tricolor-lol.tv",
             "args": {
                 "connection": {
                     "type": "net",
                     "args": {
                         "protocol": "tcp",
-                        "address": "lb.tricolor.tv:80"
+                        "address": "lb.tricolor-lol.tv:80"
                     }
                 },
                 "packet": {
